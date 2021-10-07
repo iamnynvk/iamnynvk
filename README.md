@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React-Native**
 
-- 📝 I regularly write articles on [nayanvekariya.blogspot.com](nayanvekariya.blogspot.com)
+- 📝 I regularly write articles on <a href="nayanvekariya.blogspot.com" target="blank">blog</a>
 
 - 💬 Ask me about **Java, Java-Script, ReactJs, Css, Html**
 
