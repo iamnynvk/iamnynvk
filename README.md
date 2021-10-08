@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **React-Native**
 
-- 📝 I regularly write articles on [nayanvekariya.blogspot.com](nayanvekariya.blogspot.com)
+- 📝 I regularly write articles on [Blog](https://nayanvekariya.blogspot.com/)
 
 - 💬 Ask me about **Java, Java-Script, ReactJs, Css, Html**
 
-- 📫 How to reach me **vekariyanayan2000@gmail.com**
+- 📫 How to reach me [Gmail](mailto:vekariyanayan2000@gmail.com)
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
