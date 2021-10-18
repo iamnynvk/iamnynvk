@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nayan Vekariya</h1>
-<h3 align="center">A young-dumb 🤓 front-end & back-end developer from India 🇮🇳</h3>
+<h3 align="center">A young-dumb 🤓 Mobile App developer from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnynvk&label=Profile%20views&color=0e75b6&style=flat" alt="iamnynvk" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [Blog](https://nayanvekariya.blogspot.com/)
 
-- 💬 Ask me about **Java, Java-Script, ReactJs, Css, Html**
+- 💬 Ask me about **Java, Java-Script, Css, Html, XML**
 
 - 📫 How to reach me [Gmail](mailto:vekariyanayan2000@gmail.com)
 
