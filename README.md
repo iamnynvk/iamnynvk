@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [Blog](https://nayanvekariya.blogspot.com/)
 
-- 💬 Ask me about **Java, Java-Script, Css, Html, XML**
+- 💬 Ask me about **React, Java, Java-Script, Css, Html**
 
 - 📫 How to reach me [Gmail](mailto:vekariyanayan2000@gmail.com)
 
