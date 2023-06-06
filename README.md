@@ -5,13 +5,11 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/iamnynvk" target="blank"><img src="https://img.shields.io/twitter/follow/iamnynvk?logo=twitter&style=for-the-badge" alt="iamnynvk" /></a> </p> -->
 
-- 🔭 I’m currently working on **Rental-Clothes**
-
-- 🌱 I’m currently learning **React-Native**
+- 🔭 I’m currently working on **React-Native**
 
 - 📝 I regularly write articles on [Blog](https://nayanvekariya.blogspot.com/)
 
-- 💬 Ask me about **React, React-native, Redux, Java, Java-Script, Css, Html**
+- 💬 Ask me about **React, React-native, Redux,Redux-Toolkit, Java, Java-Script, CSS, HTML**
 
 - 📫 How to reach me [Gmail](mailto:vekariyanayan2000@gmail.com)
 
