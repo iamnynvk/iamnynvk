@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nayan Vekariya</h1>
-<h3 align="center">Passionate Front & Back-end Developer from India 🇮🇳</h3>
+<h3 align="center">Passionate Front-end Developer from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnynvk&label=Profile%20views&color=0e75b6&style=flat" alt="iamnynvk" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React-Native**
 
-- 📝 I regularly write articles on [Blog](https://nayanvekariya.blogspot.com/)
+- 📝 I regularly write articles on [Blog](https://bloggyguy.com/)
 
 - 💬 Ask me about **React, React-native, Redux,Redux-Toolkit, Java, Java-Script, CSS, HTML**
 
